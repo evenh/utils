@@ -9,7 +9,7 @@ import org.junit.runners.JUnit4;
  * Common functionality for running unit tests.
  */
 @RunWith(JUnit4.class)
-public class UnitTest {
+public abstract class UnitTest {
   @Rule
   public ExpectedException exception = ExpectedException.none();
 }
