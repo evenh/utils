@@ -13,7 +13,8 @@ import java.util.Map;
  */
 public interface ValueObject {
   /**
-   * Returns the object's values.
+   * Get the values of this object.
+   * @return A map of the various values associated with this specific value object.
    */
   Map<String, ?> getValues();
 }
