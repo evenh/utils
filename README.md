@@ -10,7 +10,7 @@ Add the following dependency to your pom.xml:
 <dependency>
     <groupId>net.evenh</groupId>
     <artifactId>util</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
