@@ -4,7 +4,7 @@
 
     <groupId>net.evenh</groupId>
     <artifactId>util</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <!-- Project metadata -->
@@ -30,7 +30,7 @@
         <url>https://github.com/evenh/utils</url>
         <connection>scm:git:git://github.com/evenh/utils.git</connection>
         <developerConnection>scm:git:git@github.com:evenh/utils.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>v0.0.2</tag>
   </scm>
 
     <developers>
